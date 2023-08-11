@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kanishk Bajpai</h1>
 <h3 align="center">Senior undergraduate at Indian Institute of Information Technology-Dharwad (B.Tech in ECE) and parallel degree student at Indian Institute of Technology-Madras (B.Sc in Programming & Data Science).</h3>
 <img align = "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="ikbajpai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ikbajpai" target="blank"><img src="https://img.shields.io/twitter/follow/ikbajpai?logo=twitter&style=for-the-badge" alt="ikbajpai" /></a> </p>
 
 - 🌱 I’m currently learning **Redis, Celery**
 
-- 👨‍💻 All of my projects are available at [bit.ly/45qRSgX](bit.ly/45qRSgX)
+- 👨‍💻 All of my projects are available at [https://github.com/ikbajpai](https://github.com/ikbajpai)
 
-- 💬 Ask me about **Flask, SQLite, ML**
+- 💬 Ask me about **anything across my Github profile.**
 
 - 📫 How to reach me **kbajpai2001@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3QAyRF0](bit.ly/3QAyRF0)
+- 📄 Know about my experiences [https://github.com/ikbajpai/Kanishk-Bajpai-Resume/blob/main/Kanishk%20Bajpai_Resume.pdf](https://github.com/ikbajpai/Kanishk-Bajpai-Resume/blob/main/Kanishk%20Bajpai_Resume.pdf)
 
 - ⚡ Fun fact **I'm a Bookworm Traveler and a Holistic Learner**
 
