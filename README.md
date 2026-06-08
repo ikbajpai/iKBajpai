@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/itm21f2000784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itm21f2000784" height="30" width="40" /></a>
 <a href="https://fb.com/ikbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikbajpai" height="30" width="40" /></a>
 <a href="https://instagram.com/ikbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbajpai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kbajpai2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kbajpai2001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ikbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kbajpai2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kbajpai2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kbajpai2001" height="30" width="40" /></a>
 </p>
 
